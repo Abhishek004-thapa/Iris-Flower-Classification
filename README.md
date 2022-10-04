@@ -1,4 +1,5 @@
 # Iris-Flower-Classification Using Various Machine Learning Algorithms along with detailed Documentation.
+### Algorithms Used in this project:
 
     1) Logistic Regression   
     2) K-Nearest Neighbours   
